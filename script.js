@@ -26,7 +26,13 @@ const CONFIG = {
         {
             name: 'Business Consulting Wordpress Theme',
             images: [
-                { name: 'Business Solutions Theme.png', url: 'Business Consulting Wordpress Theme/Business Solutions Theme.png' },
+                { name: '1.png', url: 'Business Consulting Wordpress Theme/1.png' },
+                { name: '2.png', url: 'Business Consulting Wordpress Theme/2.png' },
+                { name: '3.png', url: 'Business Consulting Wordpress Theme/3.png' },
+                { name: '4.png', url: 'Business Consulting Wordpress Theme/4.png' },
+                { name: '5.png', url: 'Business Consulting Wordpress Theme/5.png' },
+                { name: '6.png', url: 'Business Consulting Wordpress Theme/6.png' },
+                { name: '7.png', url: 'Business Consulting Wordpress Theme/7.png' },
             ]
         },
         {
