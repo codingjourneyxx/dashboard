@@ -133,48 +133,53 @@ const CONFIG = {
             ]
         },
         {
-            name: 'MaxReach - SEO & Digital Agency (Style 1)',
-            images: [
-                { name: 'intro1.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/intro1.png' },
-                { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/2.png' },
-                { name: '3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/3.png' },
-                { name: '4.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/4.png' },
-                { name: '5.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/5.png' },
-                { name: '6.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/6.png' },
-                { name: '7.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/7.png' },
-                { name: '8.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/8.png' },
-                { name: '9.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/9.png' },
-                { name: '10.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/10.png' },
-            ]
-        },
-        {
-            name: 'MaxReach - SEO & Digital Agency (Style 2)',
-            images: [
-                { name: 'intro2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/intro2.png' },
-                { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/2.png' },
-                { name: '3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/3.png' },
-                { name: '4.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/4.png' },
-                { name: '5.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/5.png' },
-                { name: '6.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/6.png' },
-                { name: '7.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/7.png' },
-                { name: '8.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/8.png' },
-                { name: '9.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/9.png' },
-                { name: '10.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/10.png' },
-            ]
-        },
-        {
-            name: 'MaxReach - SEO & Digital Agency (Style 3)',
-            images: [
-                { name: 'intro3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/intro3.png' },
-                { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/2.png' },
-                { name: '3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/3.png' },
-                { name: '4.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/4.png' },
-                { name: '5.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/5.png' },
-                { name: '6.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/6.png' },
-                { name: '7.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/7.png' },
-                { name: '8.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/8.png' },
-                { name: '9.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/9.png' },
-                { name: '10.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/10.png' },
+            name: 'MaxReach - SEO & Digital Agency',
+            subfolders: [
+                {
+                    name: 'Style 1',
+                    images: [
+                        { name: 'intro1.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/intro1.png' },
+                        { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/2.png' },
+                        { name: '3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/3.png' },
+                        { name: '4.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/4.png' },
+                        { name: '5.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/5.png' },
+                        { name: '6.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/6.png' },
+                        { name: '7.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/7.png' },
+                        { name: '8.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/8.png' },
+                        { name: '9.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/9.png' },
+                        { name: '10.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/10.png' },
+                    ]
+                },
+                {
+                    name: 'Style 2',
+                    images: [
+                        { name: 'intro2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/intro2.png' },
+                        { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/2.png' },
+                        { name: '3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/3.png' },
+                        { name: '4.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/4.png' },
+                        { name: '5.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/5.png' },
+                        { name: '6.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/6.png' },
+                        { name: '7.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/7.png' },
+                        { name: '8.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/8.png' },
+                        { name: '9.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/9.png' },
+                        { name: '10.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/10.png' },
+                    ]
+                },
+                {
+                    name: 'Style 3',
+                    images: [
+                        { name: 'intro3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/intro3.png' },
+                        { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/2.png' },
+                        { name: '3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/3.png' },
+                        { name: '4.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/4.png' },
+                        { name: '5.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/5.png' },
+                        { name: '6.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/6.png' },
+                        { name: '7.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/7.png' },
+                        { name: '8.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/8.png' },
+                        { name: '9.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/9.png' },
+                        { name: '10.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/10.png' },
+                    ]
+                },
             ]
         },
         {
@@ -193,158 +198,168 @@ const CONFIG = {
             ]
         },
         {
-            name: 'Mouno - Creative Digital Agency (Style 1)',
-            images: [
-                { name: 'intro1.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/intro1.png' },
-                { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/2.png' },
-                { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/3.png' },
-                { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/4.png' },
-                { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/5.png' },
-                { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/6.png' },
-                { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/7.png' },
-                { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/8.png' },
-                { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/9.png' },
-                { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/10.png' },
-                { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/11.png' },
+            name: 'Mouno - Creative Digital Agency',
+            subfolders: [
+                {
+                    name: 'Style 1',
+                    images: [
+                        { name: 'intro1.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/intro1.png' },
+                        { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/2.png' },
+                        { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/3.png' },
+                        { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/4.png' },
+                        { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/5.png' },
+                        { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/6.png' },
+                        { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/7.png' },
+                        { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/8.png' },
+                        { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/9.png' },
+                        { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/10.png' },
+                        { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/11.png' },
+                    ]
+                },
+                {
+                    name: 'Style 2',
+                    images: [
+                        { name: 'intro2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/intro2.png' },
+                        { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/2.png' },
+                        { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/3.png' },
+                        { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/4.png' },
+                        { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/5.png' },
+                        { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/6.png' },
+                        { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/7.png' },
+                        { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/8.png' },
+                        { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/9.png' },
+                        { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/10.png' },
+                        { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/11.png' },
+                    ]
+                },
+                {
+                    name: 'Style 3',
+                    images: [
+                        { name: 'intro3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/intro3.png' },
+                        { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/2.png' },
+                        { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/3.png' },
+                        { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/4.png' },
+                        { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/5.png' },
+                        { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/6.png' },
+                        { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/7.png' },
+                        { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/8.png' },
+                        { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/9.png' },
+                        { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/10.png' },
+                        { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/11.png' },
+                    ]
+                },
+                {
+                    name: 'Style 4',
+                    images: [
+                        { name: 'intro4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/intro4.png' },
+                        { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/2.png' },
+                        { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/3.png' },
+                        { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/4.png' },
+                        { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/5.png' },
+                        { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/6.png' },
+                        { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/7.png' },
+                        { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/8.png' },
+                        { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/9.png' },
+                        { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/10.png' },
+                        { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/11.png' },
+                    ]
+                },
+                {
+                    name: 'Style 5',
+                    images: [
+                        { name: 'intro5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/intro5.png' },
+                        { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/2.png' },
+                        { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/3.png' },
+                        { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/4.png' },
+                        { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/5.png' },
+                        { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/6.png' },
+                        { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/7.png' },
+                        { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/8.png' },
+                        { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/9.png' },
+                        { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/10.png' },
+                        { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/11.png' },
+                    ]
+                },
             ]
         },
         {
-            name: 'Mouno - Creative Digital Agency (Style 2)',
-            images: [
-                { name: 'intro2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/intro2.png' },
-                { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/2.png' },
-                { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/3.png' },
-                { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/4.png' },
-                { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/5.png' },
-                { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/6.png' },
-                { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/7.png' },
-                { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/8.png' },
-                { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/9.png' },
-                { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/10.png' },
-                { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/11.png' },
-            ]
-        },
-        {
-            name: 'Mouno - Creative Digital Agency (Style 3)',
-            images: [
-                { name: 'intro3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/intro3.png' },
-                { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/2.png' },
-                { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/3.png' },
-                { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/4.png' },
-                { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/5.png' },
-                { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/6.png' },
-                { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/7.png' },
-                { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/8.png' },
-                { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/9.png' },
-                { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/10.png' },
-                { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/11.png' },
-            ]
-        },
-        {
-            name: 'Mouno - Creative Digital Agency (Style 4)',
-            images: [
-                { name: 'intro4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/intro4.png' },
-                { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/2.png' },
-                { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/3.png' },
-                { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/4.png' },
-                { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/5.png' },
-                { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/6.png' },
-                { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/7.png' },
-                { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/8.png' },
-                { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/9.png' },
-                { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/10.png' },
-                { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/11.png' },
-            ]
-        },
-        {
-            name: 'Mouno - Creative Digital Agency (Style 5)',
-            images: [
-                { name: 'intro5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/intro5.png' },
-                { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/2.png' },
-                { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/3.png' },
-                { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/4.png' },
-                { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/5.png' },
-                { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/6.png' },
-                { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/7.png' },
-                { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/8.png' },
-                { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/9.png' },
-                { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/10.png' },
-                { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/11.png' },
-            ]
-        },
-        {
-            name: 'Ingenioso (Style 1)',
-            images: [
-                { name: 'intro1.png', url: 'mulitple_ingesiso/s1/intro1.png' },
-                { name: '2.png', url: 'mulitple_ingesiso/s1/2.png' },
-                { name: '3.png', url: 'mulitple_ingesiso/s1/3.png' },
-                { name: '4.png', url: 'mulitple_ingesiso/s1/4.png' },
-                { name: '5.png', url: 'mulitple_ingesiso/s1/5.png' },
-                { name: '6.png', url: 'mulitple_ingesiso/s1/6.png' },
-                { name: '7.png', url: 'mulitple_ingesiso/s1/7.png' },
-                { name: '8.png', url: 'mulitple_ingesiso/s1/8.png' },
-                { name: '9.png', url: 'mulitple_ingesiso/s1/9.png' },
-                { name: '10.png', url: 'mulitple_ingesiso/s1/10.png' },
-            ]
-        },
-        {
-            name: 'Ingenioso (Style 2)',
-            images: [
-                { name: 'intro2.png', url: 'mulitple_ingesiso/s2/intro2.png' },
-                { name: '2.png', url: 'mulitple_ingesiso/s2/2.png' },
-                { name: '3.png', url: 'mulitple_ingesiso/s2/3.png' },
-                { name: '4.png', url: 'mulitple_ingesiso/s2/4.png' },
-                { name: '5.png', url: 'mulitple_ingesiso/s2/5.png' },
-                { name: '6.png', url: 'mulitple_ingesiso/s2/6.png' },
-                { name: '7.png', url: 'mulitple_ingesiso/s2/7.png' },
-                { name: '8.png', url: 'mulitple_ingesiso/s2/8.png' },
-                { name: '9.png', url: 'mulitple_ingesiso/s2/9.png' },
-                { name: '10.png', url: 'mulitple_ingesiso/s2/10.png' },
-            ]
-        },
-        {
-            name: 'Ingenioso (Style 3)',
-            images: [
-                { name: 'intro3.png', url: 'mulitple_ingesiso/s3/intro3.png' },
-                { name: '2.png', url: 'mulitple_ingesiso/s3/2.png' },
-                { name: '3.png', url: 'mulitple_ingesiso/s3/3.png' },
-                { name: '4.png', url: 'mulitple_ingesiso/s3/4.png' },
-                { name: '5.png', url: 'mulitple_ingesiso/s3/5.png' },
-                { name: '6.png', url: 'mulitple_ingesiso/s3/6.png' },
-                { name: '7.png', url: 'mulitple_ingesiso/s3/7.png' },
-                { name: '8.png', url: 'mulitple_ingesiso/s3/8.png' },
-                { name: '9.png', url: 'mulitple_ingesiso/s3/9.png' },
-                { name: '10.png', url: 'mulitple_ingesiso/s3/10.png' },
-            ]
-        },
-        {
-            name: 'Ingenioso (Style 4)',
-            images: [
-                { name: 'intro4.png', url: 'mulitple_ingesiso/s4/intro4.png' },
-                { name: '2.png', url: 'mulitple_ingesiso/s4/2.png' },
-                { name: '3.png', url: 'mulitple_ingesiso/s4/3.png' },
-                { name: '4.png', url: 'mulitple_ingesiso/s4/4.png' },
-                { name: '5.png', url: 'mulitple_ingesiso/s4/5.png' },
-                { name: '6.png', url: 'mulitple_ingesiso/s4/6.png' },
-                { name: '7.png', url: 'mulitple_ingesiso/s4/7.png' },
-                { name: '8.png', url: 'mulitple_ingesiso/s4/8.png' },
-                { name: '9.png', url: 'mulitple_ingesiso/s4/9.png' },
-                { name: '10.png', url: 'mulitple_ingesiso/s4/10.png' },
-            ]
-        },
-        {
-            name: 'Ingenioso (Style 5)',
-            images: [
-                { name: 'intro5.png', url: 'mulitple_ingesiso/s5/intro5.png' },
-                { name: '2.png', url: 'mulitple_ingesiso/s5/2.png' },
-                { name: '3.png', url: 'mulitple_ingesiso/s5/3.png' },
-                { name: '4.png', url: 'mulitple_ingesiso/s5/4.png' },
-                { name: '5.png', url: 'mulitple_ingesiso/s5/5.png' },
-                { name: '6.png', url: 'mulitple_ingesiso/s5/6.png' },
-                { name: '7.png', url: 'mulitple_ingesiso/s5/7.png' },
-                { name: '8.png', url: 'mulitple_ingesiso/s5/8.png' },
-                { name: '9.png', url: 'mulitple_ingesiso/s5/9.png' },
-                { name: '10.png', url: 'mulitple_ingesiso/s5/10.png' },
+            name: 'Ingenioso',
+            subfolders: [
+                {
+                    name: 'Style 1',
+                    images: [
+                        { name: 'intro1.png', url: 'mulitple_ingesiso/s1/intro1.png' },
+                        { name: '2.png', url: 'mulitple_ingesiso/s1/2.png' },
+                        { name: '3.png', url: 'mulitple_ingesiso/s1/3.png' },
+                        { name: '4.png', url: 'mulitple_ingesiso/s1/4.png' },
+                        { name: '5.png', url: 'mulitple_ingesiso/s1/5.png' },
+                        { name: '6.png', url: 'mulitple_ingesiso/s1/6.png' },
+                        { name: '7.png', url: 'mulitple_ingesiso/s1/7.png' },
+                        { name: '8.png', url: 'mulitple_ingesiso/s1/8.png' },
+                        { name: '9.png', url: 'mulitple_ingesiso/s1/9.png' },
+                        { name: '10.png', url: 'mulitple_ingesiso/s1/10.png' },
+                    ]
+                },
+                {
+                    name: 'Style 2',
+                    images: [
+                        { name: 'intro2.png', url: 'mulitple_ingesiso/s2/intro2.png' },
+                        { name: '2.png', url: 'mulitple_ingesiso/s2/2.png' },
+                        { name: '3.png', url: 'mulitple_ingesiso/s2/3.png' },
+                        { name: '4.png', url: 'mulitple_ingesiso/s2/4.png' },
+                        { name: '5.png', url: 'mulitple_ingesiso/s2/5.png' },
+                        { name: '6.png', url: 'mulitple_ingesiso/s2/6.png' },
+                        { name: '7.png', url: 'mulitple_ingesiso/s2/7.png' },
+                        { name: '8.png', url: 'mulitple_ingesiso/s2/8.png' },
+                        { name: '9.png', url: 'mulitple_ingesiso/s2/9.png' },
+                        { name: '10.png', url: 'mulitple_ingesiso/s2/10.png' },
+                    ]
+                },
+                {
+                    name: 'Style 3',
+                    images: [
+                        { name: 'intro3.png', url: 'mulitple_ingesiso/s3/intro3.png' },
+                        { name: '2.png', url: 'mulitple_ingesiso/s3/2.png' },
+                        { name: '3.png', url: 'mulitple_ingesiso/s3/3.png' },
+                        { name: '4.png', url: 'mulitple_ingesiso/s3/4.png' },
+                        { name: '5.png', url: 'mulitple_ingesiso/s3/5.png' },
+                        { name: '6.png', url: 'mulitple_ingesiso/s3/6.png' },
+                        { name: '7.png', url: 'mulitple_ingesiso/s3/7.png' },
+                        { name: '8.png', url: 'mulitple_ingesiso/s3/8.png' },
+                        { name: '9.png', url: 'mulitple_ingesiso/s3/9.png' },
+                        { name: '10.png', url: 'mulitple_ingesiso/s3/10.png' },
+                    ]
+                },
+                {
+                    name: 'Style 4',
+                    images: [
+                        { name: 'intro4.png', url: 'mulitple_ingesiso/s4/intro4.png' },
+                        { name: '2.png', url: 'mulitple_ingesiso/s4/2.png' },
+                        { name: '3.png', url: 'mulitple_ingesiso/s4/3.png' },
+                        { name: '4.png', url: 'mulitple_ingesiso/s4/4.png' },
+                        { name: '5.png', url: 'mulitple_ingesiso/s4/5.png' },
+                        { name: '6.png', url: 'mulitple_ingesiso/s4/6.png' },
+                        { name: '7.png', url: 'mulitple_ingesiso/s4/7.png' },
+                        { name: '8.png', url: 'mulitple_ingesiso/s4/8.png' },
+                        { name: '9.png', url: 'mulitple_ingesiso/s4/9.png' },
+                        { name: '10.png', url: 'mulitple_ingesiso/s4/10.png' },
+                    ]
+                },
+                {
+                    name: 'Style 5',
+                    images: [
+                        { name: 'intro5.png', url: 'mulitple_ingesiso/s5/intro5.png' },
+                        { name: '2.png', url: 'mulitple_ingesiso/s5/2.png' },
+                        { name: '3.png', url: 'mulitple_ingesiso/s5/3.png' },
+                        { name: '4.png', url: 'mulitple_ingesiso/s5/4.png' },
+                        { name: '5.png', url: 'mulitple_ingesiso/s5/5.png' },
+                        { name: '6.png', url: 'mulitple_ingesiso/s5/6.png' },
+                        { name: '7.png', url: 'mulitple_ingesiso/s5/7.png' },
+                        { name: '8.png', url: 'mulitple_ingesiso/s5/8.png' },
+                        { name: '9.png', url: 'mulitple_ingesiso/s5/9.png' },
+                        { name: '10.png', url: 'mulitple_ingesiso/s5/10.png' },
+                    ]
+                },
             ]
         },
         {
@@ -408,32 +423,37 @@ const CONFIG = {
             ]
         },
         {
-            name: 'Tecnologia (Style 1)',
-            images: [
-                { name: 'App-Development.png', url: 'Tecnologia/s1/App-Development---Tecnologia-12-01-2025_05_21_PM.png' },
-                { name: '1.png', url: 'Tecnologia/s1/1.png' },
-                { name: '2.png', url: 'Tecnologia/s1/2.png' },
-                { name: '3.png', url: 'Tecnologia/s1/3.png' },
-                { name: '4.png', url: 'Tecnologia/s1/4.png' },
-                { name: '5.png', url: 'Tecnologia/s1/5.png' },
-                { name: '6.png', url: 'Tecnologia/s1/6.png' },
-                { name: '7.png', url: 'Tecnologia/s1/7.png' },
-                { name: '8.png', url: 'Tecnologia/s1/8.png' },
-                { name: '9.png', url: 'Tecnologia/s1/9.png' },
-            ]
-        },
-        {
-            name: 'Tecnologia (Style 2)',
-            images: [
-                { name: 'App-Development.png', url: 'Tecnologia/s2/App-Development---Tecnologia-12-01-2025_05_21_PM.png' },
-                { name: '2.png', url: 'Tecnologia/s2/2.png' },
-                { name: '3.png', url: 'Tecnologia/s2/3.png' },
-                { name: '4.png', url: 'Tecnologia/s2/4.png' },
-                { name: '5.png', url: 'Tecnologia/s2/5.png' },
-                { name: '6.png', url: 'Tecnologia/s2/6.png' },
-                { name: '7.png', url: 'Tecnologia/s2/7.png' },
-                { name: '8.png', url: 'Tecnologia/s2/8.png' },
-                { name: '9.png', url: 'Tecnologia/s2/9.png' },
+            name: 'Tecnologia',
+            subfolders: [
+                {
+                    name: 'Style 1',
+                    images: [
+                        { name: 'App-Development.png', url: 'Tecnologia/s1/App-Development---Tecnologia-12-01-2025_05_21_PM.png' },
+                        { name: '1.png', url: 'Tecnologia/s1/1.png' },
+                        { name: '2.png', url: 'Tecnologia/s1/2.png' },
+                        { name: '3.png', url: 'Tecnologia/s1/3.png' },
+                        { name: '4.png', url: 'Tecnologia/s1/4.png' },
+                        { name: '5.png', url: 'Tecnologia/s1/5.png' },
+                        { name: '6.png', url: 'Tecnologia/s1/6.png' },
+                        { name: '7.png', url: 'Tecnologia/s1/7.png' },
+                        { name: '8.png', url: 'Tecnologia/s1/8.png' },
+                        { name: '9.png', url: 'Tecnologia/s1/9.png' },
+                    ]
+                },
+                {
+                    name: 'Style 2',
+                    images: [
+                        { name: 'App-Development.png', url: 'Tecnologia/s2/App-Development---Tecnologia-12-01-2025_05_21_PM.png' },
+                        { name: '2.png', url: 'Tecnologia/s2/2.png' },
+                        { name: '3.png', url: 'Tecnologia/s2/3.png' },
+                        { name: '4.png', url: 'Tecnologia/s2/4.png' },
+                        { name: '5.png', url: 'Tecnologia/s2/5.png' },
+                        { name: '6.png', url: 'Tecnologia/s2/6.png' },
+                        { name: '7.png', url: 'Tecnologia/s2/7.png' },
+                        { name: '8.png', url: 'Tecnologia/s2/8.png' },
+                        { name: '9.png', url: 'Tecnologia/s2/9.png' },
+                    ]
+                },
             ]
         },
     ]
@@ -451,6 +471,7 @@ const closeModalBtn = document.getElementById('closeModal');
 
 // State
 let currentFolder = null;
+let parentFolder = null; // Track parent folder for nested navigation
 
 // Lazy load observer (single instance for performance)
 const lazyObserver = new IntersectionObserver((entries) => {
@@ -494,6 +515,7 @@ function init() {
  */
 function showFolders() {
     currentFolder = null;
+    parentFolder = null;
     imageGridEl.innerHTML = '';
     emptyStateEl.classList.add('hidden');
 
@@ -513,14 +535,43 @@ function showFolders() {
 }
 
 /**
+ * Show subfolders view for a parent folder
+ */
+function showSubfolders(folder) {
+    parentFolder = folder;
+    currentFolder = null;
+    imageGridEl.innerHTML = '';
+    emptyStateEl.classList.add('hidden');
+
+    folderNameEl.textContent = folder.name;
+    imageCountEl.textContent = `${folder.subfolders.length} style${folder.subfolders.length !== 1 ? 's' : ''}`;
+
+    // Update header icon to back arrow
+    updateHeaderIcon('back');
+
+    // Use DocumentFragment for batch DOM insertion
+    const fragment = document.createDocumentFragment();
+    folder.subfolders.forEach((subfolder, index) => {
+        const card = createFolderCard(subfolder, index, folder);
+        fragment.appendChild(card);
+    });
+    imageGridEl.appendChild(fragment);
+}
+
+/**
  * Create a folder card element
  */
-function createFolderCard(folder, index) {
+function createFolderCard(folder, index, parent = null) {
     const card = document.createElement('div');
     card.className = 'relative overflow-hidden rounded-lg bg-gray-50 aspect-square cursor-pointer border border-gray-200 flex flex-col items-center justify-center p-4 hover:shadow-lg hover:-translate-y-1 hover:bg-gray-100 transition-transform duration-150';
 
     // Faster staggered animation (max 300ms total delay)
     card.style.cssText = `opacity:0;transform:translateY(10px);animation:fadeIn 0.2s ease forwards;animation-delay:${Math.min(index * 30, 300)}ms;`;
+
+    // Check if folder has subfolders or images
+    const hasSubfolders = folder.subfolders && folder.subfolders.length > 0;
+    const itemCount = hasSubfolders ? folder.subfolders.length : (folder.images ? folder.images.length : 0);
+    const itemLabel = hasSubfolders ? `${itemCount} style${itemCount !== 1 ? 's' : ''}` : `${itemCount} image${itemCount !== 1 ? 's' : ''}`;
 
     card.innerHTML = `
         <div class="mb-3">
@@ -529,10 +580,16 @@ function createFolderCard(folder, index) {
             </svg>
         </div>
         <span class="text-sm font-medium text-gray-700 text-center line-clamp-2 px-2">${folder.name}</span>
-        <span class="text-xs text-accent mt-2">${folder.images.length} image${folder.images.length !== 1 ? 's' : ''}</span>
+        <span class="text-xs text-accent mt-2">${itemLabel}</span>
     `;
 
-    card.addEventListener('click', () => openFolder(folder));
+    card.addEventListener('click', () => {
+        if (hasSubfolders) {
+            showSubfolders(folder);
+        } else {
+            openFolder(folder, parent);
+        }
+    });
 
     return card;
 }
@@ -540,12 +597,17 @@ function createFolderCard(folder, index) {
 /**
  * Open a folder and show its images
  */
-function openFolder(folder) {
+function openFolder(folder, parent = null) {
     currentFolder = folder;
+    if (parent) {
+        parentFolder = parent;
+    }
     imageGridEl.innerHTML = '';
     emptyStateEl.classList.add('hidden');
 
-    folderNameEl.textContent = folder.name;
+    // Show parent name + subfolder name if nested
+    const displayName = parentFolder ? `${parentFolder.name} - ${folder.name}` : folder.name;
+    folderNameEl.textContent = displayName;
     imageCountEl.textContent = `${folder.images.length} image${folder.images.length !== 1 ? 's' : ''}`;
 
     // Update header icon to back arrow
@@ -566,6 +628,22 @@ function openFolder(folder) {
 }
 
 /**
+ * Navigate back based on current state
+ */
+function navigateBack() {
+    if (currentFolder && parentFolder) {
+        // In subfolder images view -> go back to subfolders
+        showSubfolders(parentFolder);
+    } else if (parentFolder) {
+        // In subfolders view -> go back to main folders
+        showFolders();
+    } else {
+        // In regular folder images view -> go back to main folders
+        showFolders();
+    }
+}
+
+/**
  * Update header icon (folder or back arrow)
  */
 function updateHeaderIcon(type) {
@@ -579,7 +657,7 @@ function updateHeaderIcon(type) {
             </svg>
         `;
         iconContainer.style.cursor = 'pointer';
-        iconContainer.onclick = showFolders;
+        iconContainer.onclick = navigateBack;
     } else {
         iconContainer.innerHTML = `
             <svg class="w-6 h-6 text-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24">

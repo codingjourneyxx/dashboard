@@ -1,15 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(*)",
-      "Read(*)",
-      "Write(*)",
-      "Edit(*)",
-      "Glob(*)",
-      "Grep(*)",
-      "WebFetch(*)",
-      "Task(*)"
+      "Bash(ls:*)"
     ],
-    "deny": []
+    "deny": [],
+    "ask": []
   }
 }
