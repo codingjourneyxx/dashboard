@@ -7,6 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lenis@1.1.13/dist/lenis.min.js"></script>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -34,7 +35,7 @@
     </header>
 
     <!-- Main Content -->
-    <main class="w-full px-6 py-4">
+    <main class="w-full px-6 py-4 pb-20">
         <!-- Folder Info Section -->
         <div class="mb-4">
             <div class="flex items-center gap-3 mb-2">
@@ -48,7 +49,7 @@
             <p id="imageCount" class="text-sm text-accent ml-9">0 items</p>
         </div>
 
-        <!-- Image Grid -->
+        <!-- Image Grid / URL List -->
         <div id="imageGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
             <!-- Images will be dynamically inserted here -->
         </div>
@@ -63,7 +64,7 @@
     </main>
 
     <!-- Toast Notification -->
-    <div id="toast" class="fixed bottom-6 right-6 bg-accent text-white px-6 py-3 rounded shadow-lg transform translate-y-20 opacity-0 transition-all duration-300">
+    <div id="toast" class="fixed bottom-6 right-6 bg-accent text-white px-6 py-3 rounded shadow-lg translate-y-20 opacity-0 z-50">
         <span class="text-sm font-light">URL copied to clipboard</span>
     </div>
 

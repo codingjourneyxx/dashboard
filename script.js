@@ -30,6 +30,7 @@ const CONFIG = {
         },
         {
             name: 'Creastic – Creative Digital Agency Elementor Template',
+            zip: { name: 'creastic.zip', url: 'Creastic – Creative Digital Agency Elementor Template/creastic-creative-digital-agency-elementor-templ-2025-07-31-01-33-00-utc.zip' },
             images: [
                 { name: '1.png', url: 'Creastic – Creative Digital Agency Elementor Template/1.png' },
                 { name: '2.png', url: 'Creastic – Creative Digital Agency Elementor Template/2.png' },
@@ -45,6 +46,7 @@ const CONFIG = {
         },
         {
             name: 'Execor – Accounting & Management Consulting',
+            zip: { name: 'fake.zip', url: 'Execor – Accounting & Management Consulting/fake.zip' },
             images: [
                 { name: 'intro2.png', url: 'Execor – Accounting & Management Consulting/intro2.png' },
                 { name: '1.png', url: 'Execor – Accounting & Management Consulting/1.png' },
@@ -61,6 +63,7 @@ const CONFIG = {
         },
         {
             name: 'Finovate',
+            zip: { name: 'finovate.zip', url: 'Finovate/finovate.zip' },
             images: [
                 { name: '1.png', url: 'Finovate/1.png' },
                 { name: '2.png', url: 'Finovate/2.png' },
@@ -76,6 +79,7 @@ const CONFIG = {
         },
         {
             name: 'Homirx – Real Estate WordPress Theme',
+            zip: { name: 'homirx_theme.zip', url: 'Homirx – Real Estate WordPress Theme/homirx_theme.zip' },
             images: [
                 { name: '1.png', url: 'Homirx – Real Estate WordPress Theme/1.png' },
                 { name: '2.png', url: 'Homirx – Real Estate WordPress Theme/2.png' },
@@ -90,6 +94,7 @@ const CONFIG = {
         },
         {
             name: 'Innovecouture',
+            zip: { name: 'innovecouture.zip', url: 'innovecouture/innovecouture.zip' },
             images: [
                 { name: '1.png', url: 'innovecouture/1.png' },
                 { name: '2.png', url: 'innovecouture/2.png' },
@@ -104,6 +109,7 @@ const CONFIG = {
         },
         {
             name: 'Interior Design WordPress Theme',
+            zip: { name: 'minterio.zip', url: 'Interior Design WordPress Theme/minterio.zip' },
             images: [
                 { name: '1.png', url: 'Interior Design WordPress Theme/1.png' },
                 { name: '2.png', url: 'Interior Design WordPress Theme/2.png' },
@@ -119,6 +125,7 @@ const CONFIG = {
         },
         {
             name: 'iTactics',
+            zip: { name: 'itactics.zip', url: 'itactics/itactics.zip' },
             images: [
                 { name: '1.png', url: 'itactics/1.png' },
                 { name: '2.png', url: 'itactics/2.png' },
@@ -137,6 +144,7 @@ const CONFIG = {
             subfolders: [
                 {
                     name: 'Style 1',
+                    zip: { name: 'maxreach.zip', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/maxreach.zip' },
                     images: [
                         { name: 'intro1.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/intro1.png' },
                         { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/2.png' },
@@ -152,6 +160,7 @@ const CONFIG = {
                 },
                 {
                     name: 'Style 2',
+                    zip: { name: 'maxreach.zip', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/maxreach.zip' },
                     images: [
                         { name: 'intro2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/intro2.png' },
                         { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/2.png' },
@@ -167,6 +176,7 @@ const CONFIG = {
                 },
                 {
                     name: 'Style 3',
+                    zip: { name: 'maxreach.zip', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/maxreach.zip' },
                     images: [
                         { name: 'intro3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/intro3.png' },
                         { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/2.png' },
@@ -184,6 +194,7 @@ const CONFIG = {
         },
         {
             name: 'Most – Creative Agency and Portfolio Theme',
+            zip: { name: 'most.zip', url: 'Most – Creative Agency and Portfolio Theme/most.zip' },
             images: [
                 { name: '1.png', url: 'Most – Creative Agency and Portfolio Theme/1.png' },
                 { name: '2.png', url: 'Most – Creative Agency and Portfolio Theme/2.png' },
@@ -199,6 +210,7 @@ const CONFIG = {
         },
         {
             name: 'Mouno - Creative Digital Agency',
+            zip: { name: 'mouno.zip', url: 'Mouno - Creative Digital Agency WordPress Theme/mouno.zip' },
             subfolders: [
                 {
                     name: 'Style 1',
@@ -364,6 +376,7 @@ const CONFIG = {
         },
         {
             name: 'Newspaper',
+            zip: { name: 'the-newspaper.zip', url: 'Newspaper/the-newspaper.zip' },
             images: [
                 { name: '1.png', url: 'Newspaper/1.png' },
                 { name: '2.png', url: 'Newspaper/2.png' },
@@ -379,6 +392,7 @@ const CONFIG = {
         },
         {
             name: 'Numerique',
+            zip: { name: 'numerique.zip', url: 'numerique/numerique.zip' },
             images: [
                 { name: '1.png', url: 'numerique/1.png' },
                 { name: '2.png', url: 'numerique/2.png' },
@@ -394,6 +408,7 @@ const CONFIG = {
         },
         {
             name: 'Pixelpiernyc - Creative Agency Portfolio Freelance',
+            zip: { name: 'pixelpiernyc.zip', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/pixelpiernyc.zip' },
             images: [
                 { name: '1.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/1.png' },
                 { name: '2.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/2.png' },
@@ -408,6 +423,7 @@ const CONFIG = {
         },
         {
             name: 'Rentic',
+            zip: { name: 'rentic.zip', url: 'Rentic/rentic.zip' },
             images: [
                 { name: '1.png', url: 'Rentic/1.png' },
                 { name: '2.png', url: 'Rentic/2.png' },
@@ -427,6 +443,7 @@ const CONFIG = {
             subfolders: [
                 {
                     name: 'Style 1',
+                    zip: { name: 'tecnologia_28.zip', url: 'Tecnologia/s1/tecnologia_28.zip' },
                     images: [
                         { name: 'App-Development.png', url: 'Tecnologia/s1/App-Development---Tecnologia-12-01-2025_05_21_PM.png' },
                         { name: '1.png', url: 'Tecnologia/s1/1.png' },
@@ -442,6 +459,7 @@ const CONFIG = {
                 },
                 {
                     name: 'Style 2',
+                    zip: { name: 'tecnologia_28.zip', url: 'Tecnologia/s2/tecnologia_28.zip' },
                     images: [
                         { name: 'App-Development.png', url: 'Tecnologia/s2/App-Development---Tecnologia-12-01-2025_05_21_PM.png' },
                         { name: '2.png', url: 'Tecnologia/s2/2.png' },
@@ -472,34 +490,27 @@ const closeModalBtn = document.getElementById('closeModal');
 // State
 let currentFolder = null;
 let parentFolder = null; // Track parent folder for nested navigation
+let lenis = null; // Lenis smooth scroll instance
 
-// Lazy load observer (single instance for performance)
-const lazyObserver = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-        if (entry.isIntersecting) {
-            const img = entry.target;
-            if (img.dataset.src) {
-                img.src = img.dataset.src;
-                img.removeAttribute('data-src');
-            }
-            lazyObserver.unobserve(img);
-        }
-    });
-}, { rootMargin: '50px' });
-
-/**
- * Lazy load an image using IntersectionObserver
- */
-function lazyLoadImage(img) {
-    if (img.dataset.src) {
-        lazyObserver.observe(img);
-    }
-}
 
 /**
  * Initialize the dashboard
  */
 function init() {
+    // Initialize Lenis smooth scroll
+    lenis = new Lenis({
+        duration: 1.2,
+        easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+        smooth: true,
+        smoothTouch: false
+    });
+
+    function raf(time) {
+        lenis.raf(time);
+        requestAnimationFrame(raf);
+    }
+    requestAnimationFrame(raf);
+
     // Set title
     folderNameEl.textContent = CONFIG.title;
 
@@ -511,6 +522,17 @@ function init() {
 }
 
 /**
+ * Scroll to top after content changes
+ */
+function scrollToTop() {
+    if (lenis) {
+        lenis.scrollTo(0, { immediate: true });
+    } else {
+        window.scrollTo(0, 0);
+    }
+}
+
+/**
  * Show folders view
  */
 function showFolders() {
@@ -518,6 +540,9 @@ function showFolders() {
     parentFolder = null;
     imageGridEl.innerHTML = '';
     emptyStateEl.classList.add('hidden');
+
+    // Reset to grid view
+    imageGridEl.className = 'grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4';
 
     folderNameEl.textContent = CONFIG.title;
     imageCountEl.textContent = `${CONFIG.folders.length} folder${CONFIG.folders.length !== 1 ? 's' : ''}`;
@@ -532,6 +557,8 @@ function showFolders() {
         fragment.appendChild(card);
     });
     imageGridEl.appendChild(fragment);
+
+    scrollToTop();
 }
 
 /**
@@ -543,19 +570,61 @@ function showSubfolders(folder) {
     imageGridEl.innerHTML = '';
     emptyStateEl.classList.add('hidden');
 
+    // Reset to grid view
+    imageGridEl.className = 'grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4';
+
     folderNameEl.textContent = folder.name;
-    imageCountEl.textContent = `${folder.subfolders.length} style${folder.subfolders.length !== 1 ? 's' : ''}`;
+    const zipCount = folder.zip ? 1 : 0;
+    const totalItems = folder.subfolders.length + zipCount;
+    imageCountEl.textContent = `${folder.subfolders.length} style${folder.subfolders.length !== 1 ? 's' : ''}${folder.zip ? ' + zip' : ''}`;
 
     // Update header icon to back arrow
     updateHeaderIcon('back');
 
     // Use DocumentFragment for batch DOM insertion
     const fragment = document.createDocumentFragment();
+
+    // Add zip card first if exists
+    if (folder.zip) {
+        const zipCard = createZipCard(folder.zip);
+        fragment.appendChild(zipCard);
+    }
+
     folder.subfolders.forEach((subfolder, index) => {
         const card = createFolderCard(subfolder, index, folder);
         fragment.appendChild(card);
     });
     imageGridEl.appendChild(fragment);
+
+    scrollToTop();
+}
+
+/**
+ * Create a zip file card element
+ */
+function createZipCard(zip) {
+    const card = document.createElement('div');
+    card.className = 'relative overflow-hidden rounded-lg bg-accent/10 aspect-square cursor-pointer border-2 border-accent border-dashed flex flex-col items-center justify-center p-4 hover:bg-accent/20';
+
+    const fullUrl = zip.url.startsWith('http') ? zip.url : CONFIG.baseUrl + zip.url;
+
+    card.innerHTML = `
+        <div class="mb-3">
+            <svg class="w-16 h-16 text-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 10v6m0 0l-3-3m3 3l3-3M3 17V7a2 2 0 012-2h6l2 2h6a2 2 0 012 2v8a2 2 0 01-2 2H5a2 2 0 01-2-2z"/>
+            </svg>
+        </div>
+        <span class="text-sm font-medium text-accent text-center">${zip.name}</span>
+        <span class="text-xs text-gray-500 mt-2">Click to copy URL</span>
+    `;
+
+    card.addEventListener('click', () => {
+        copyToClipboard(fullUrl);
+        card.style.outline = '3px solid #5167FC';
+        setTimeout(() => card.style.outline = '', 200);
+    });
+
+    return card;
 }
 
 /**
@@ -563,10 +632,7 @@ function showSubfolders(folder) {
  */
 function createFolderCard(folder, index, parent = null) {
     const card = document.createElement('div');
-    card.className = 'relative overflow-hidden rounded-lg bg-gray-50 aspect-square cursor-pointer border border-gray-200 flex flex-col items-center justify-center p-4 hover:shadow-lg hover:-translate-y-1 hover:bg-gray-100 transition-transform duration-150';
-
-    // Faster staggered animation (max 300ms total delay)
-    card.style.cssText = `opacity:0;transform:translateY(10px);animation:fadeIn 0.2s ease forwards;animation-delay:${Math.min(index * 30, 300)}ms;`;
+    card.className = 'relative overflow-hidden rounded-lg bg-gray-50 aspect-square cursor-pointer border border-gray-200 flex flex-col items-center justify-center p-4 hover:bg-gray-100';
 
     // Check if folder has subfolders or images
     const hasSubfolders = folder.subfolders && folder.subfolders.length > 0;
@@ -595,7 +661,7 @@ function createFolderCard(folder, index, parent = null) {
 }
 
 /**
- * Open a folder and show its images
+ * Open a folder and show its images as URL list
  */
 function openFolder(folder, parent = null) {
     currentFolder = folder;
@@ -608,23 +674,36 @@ function openFolder(folder, parent = null) {
     // Show parent name + subfolder name if nested
     const displayName = parentFolder ? `${parentFolder.name} - ${folder.name}` : folder.name;
     folderNameEl.textContent = displayName;
-    imageCountEl.textContent = `${folder.images.length} image${folder.images.length !== 1 ? 's' : ''}`;
+    const zipLabel = folder.zip ? ' + zip' : '';
+    imageCountEl.textContent = `${folder.images.length} image${folder.images.length !== 1 ? 's' : ''}${zipLabel}`;
 
     // Update header icon to back arrow
     updateHeaderIcon('back');
 
-    if (folder.images.length === 0) {
+    if (folder.images.length === 0 && !folder.zip) {
         emptyStateEl.classList.remove('hidden');
         return;
     }
 
+    // Switch to list view
+    imageGridEl.className = 'flex flex-col gap-2';
+
     // Use DocumentFragment for batch DOM insertion (better performance)
     const fragment = document.createDocumentFragment();
+
+    // Add zip item first if exists
+    if (folder.zip) {
+        const zipItem = createZipListItem(folder.zip);
+        fragment.appendChild(zipItem);
+    }
+
     folder.images.forEach((image, index) => {
-        const card = createImageCard(image, index);
-        fragment.appendChild(card);
+        const item = createImageListItem(image, index);
+        fragment.appendChild(item);
     });
     imageGridEl.appendChild(fragment);
+
+    scrollToTop();
 }
 
 /**
@@ -681,66 +760,79 @@ function loadImages() {
 }
 
 /**
- * Create an image card element
+ * Create an image list item element
  * @param {Object} image - Image data { name, url }
- * @param {number} index - Image index for animation delay
- * @returns {HTMLElement} - The image card element
+ * @param {number} index - Image index
+ * @returns {HTMLElement} - The list item element
  */
-function createImageCard(image, index) {
-    const card = document.createElement('div');
-    card.className = 'group relative overflow-hidden rounded-lg bg-gray-100 aspect-square cursor-pointer border border-gray-200 hover:shadow-lg hover:-translate-y-1 transition-transform duration-150';
-
-    // Stagger animation using CSS custom property (GPU accelerated)
-    card.style.cssText = `opacity:0;transform:translateY(10px);animation:fadeIn 0.2s ease forwards;animation-delay:${Math.min(index * 30, 300)}ms;will-change:transform,opacity;`;
+function createImageListItem(image, index) {
+    const item = document.createElement('div');
+    item.className = 'flex items-center gap-3 p-3 bg-gray-50 rounded-lg border border-gray-200 hover:bg-gray-100';
 
     // Full URL for copying
     const fullUrl = image.url.startsWith('http') ? image.url : CONFIG.baseUrl + image.url;
 
-    card.innerHTML = `
-        <img data-src="${image.url}" alt="${image.name}" class="w-full h-full object-cover object-left-top" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22%23bdcbcc%22><path d=%22M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z%22/></svg>'">
-        <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-3 pt-8">
-            <span class="text-white text-xs truncate block" title="${image.name}">${image.name}</span>
+    item.innerHTML = `
+        <div class="flex-1 min-w-0 cursor-pointer" title="Click to view image">
+            <p class="text-sm font-medium text-gray-700 truncate">${image.name}</p>
+            <p class="text-xs text-gray-500 truncate">${fullUrl}</p>
         </div>
-        <div class="absolute top-2 right-2 opacity-0 group-hover:opacity-100 transition-opacity">
-            <div class="bg-black/50 text-white text-xs px-2 py-1 rounded">
-                Click: Copy | Double-click: Zoom
-            </div>
-        </div>
+        <button class="copy-btn flex-shrink-0 px-3 py-1.5 bg-accent text-white text-xs rounded hover:bg-accent-dark">
+            Copy URL
+        </button>
     `;
 
-    // Lazy load image with IntersectionObserver
-    const img = card.querySelector('img');
-    lazyLoadImage(img);
-
-    // Clean up will-change after animation completes
-    card.addEventListener('animationend', () => {
-        card.style.willChange = 'auto';
-    }, { once: true });
-
-    // Handle single click (copy) vs double click (zoom)
-    let clickTimer = null;
-
-    card.addEventListener('click', (e) => {
-        if (clickTimer) {
-            // Double click detected - clear timer and open modal
-            clearTimeout(clickTimer);
-            clickTimer = null;
-            openModal(image.url, image.name);
-        } else {
-            // Start timer for single click
-            clickTimer = setTimeout(() => {
-                copyToClipboard(fullUrl);
-                // Visual feedback - brief flash
-                card.style.outline = '3px solid #5167FC';
-                setTimeout(() => {
-                    card.style.outline = '';
-                }, 200);
-                clickTimer = null;
-            }, 250);
-        }
+    // Click on URL text opens modal
+    const urlArea = item.querySelector('.flex-1');
+    urlArea.addEventListener('click', () => {
+        openModal(image.url, image.name);
     });
 
-    return card;
+    // Copy button
+    const copyBtn = item.querySelector('.copy-btn');
+    copyBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        copyToClipboard(fullUrl);
+        copyBtn.textContent = 'Copied!';
+        setTimeout(() => copyBtn.textContent = 'Copy URL', 1000);
+    });
+
+    return item;
+}
+
+/**
+ * Create a zip list item element
+ * @param {Object} zip - Zip data { name, url }
+ * @returns {HTMLElement} - The list item element
+ */
+function createZipListItem(zip) {
+    const item = document.createElement('div');
+    item.className = 'flex items-center gap-3 p-3 bg-accent/10 rounded-lg border-2 border-accent border-dashed';
+
+    const fullUrl = zip.url.startsWith('http') ? zip.url : CONFIG.baseUrl + zip.url;
+
+    item.innerHTML = `
+        <svg class="w-6 h-6 text-accent flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 10v6m0 0l-3-3m3 3l3-3M3 17V7a2 2 0 012-2h6l2 2h6a2 2 0 012 2v8a2 2 0 01-2 2H5a2 2 0 01-2-2z"/>
+        </svg>
+        <div class="flex-1 min-w-0">
+            <p class="text-sm font-medium text-accent">${zip.name}</p>
+            <p class="text-xs text-gray-500 truncate">${fullUrl}</p>
+        </div>
+        <button class="copy-btn flex-shrink-0 px-3 py-1.5 bg-accent text-white text-xs rounded hover:bg-accent-dark">
+            Copy URL
+        </button>
+    `;
+
+    // Copy button
+    const copyBtn = item.querySelector('.copy-btn');
+    copyBtn.addEventListener('click', () => {
+        copyToClipboard(fullUrl);
+        copyBtn.textContent = 'Copied!';
+        setTimeout(() => copyBtn.textContent = 'Copy URL', 1000);
+    });
+
+    return item;
 }
 
 /**

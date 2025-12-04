@@ -1,9 +1,25 @@
 /* Custom styles for the dashboard */
 
-/* Smooth scrollbar */
+/* Lenis Smooth Scroll */
+html.lenis, html.lenis body {
+    height: auto;
+}
+
+.lenis.lenis-smooth {
+    scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+    overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+    overflow: hidden;
+}
+
+/* Scrollbar */
 ::-webkit-scrollbar {
     width: 8px;
-    height: 8px;
 }
 
 ::-webkit-scrollbar-track {
@@ -15,45 +31,13 @@
     border-radius: 4px;
 }
 
-::-webkit-scrollbar-thumb:hover {
-    background: #3d4fd9;
-}
-
-/* Animation keyframes - GPU accelerated */
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-        transform: translate3d(0, 10px, 0);
-    }
-    to {
-        opacity: 1;
-        transform: translate3d(0, 0, 0);
-    }
-}
-
 /* Performance hints */
 #imageGrid {
     contain: layout style;
 }
 
-/* Toast animation */
+/* Toast */
 .toast-show {
     transform: translateY(0) !important;
     opacity: 1 !important;
-}
-
-/* Modal styles */
-#imageModal {
-    backdrop-filter: blur(4px);
-}
-
-/* Focus states for accessibility */
-button:focus {
-    outline: 2px solid #5167FC;
-    outline-offset: 2px;
-}
-
-#closeModal:focus {
-    outline: 2px solid #5167FC;
-    outline-offset: 2px;
 }
