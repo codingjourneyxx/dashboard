@@ -27,7 +27,415 @@ const CONFIG = {
             images: [
                 { name: 'Business Solutions Theme.png', url: 'Business Consulting Wordpress Theme/Business Solutions Theme.png' },
             ]
-        }
+        },
+        {
+            name: 'Creastic – Creative Digital Agency Elementor Template',
+            images: [
+                { name: '1.png', url: 'Creastic – Creative Digital Agency Elementor Template/1.png' },
+                { name: '2.png', url: 'Creastic – Creative Digital Agency Elementor Template/2.png' },
+                { name: '3.png', url: 'Creastic – Creative Digital Agency Elementor Template/3.png' },
+                { name: '4.png', url: 'Creastic – Creative Digital Agency Elementor Template/4.png' },
+                { name: '5.png', url: 'Creastic – Creative Digital Agency Elementor Template/5.png' },
+                { name: '6.png', url: 'Creastic – Creative Digital Agency Elementor Template/6.png' },
+                { name: '7.png', url: 'Creastic – Creative Digital Agency Elementor Template/7.png' },
+                { name: '8.png', url: 'Creastic – Creative Digital Agency Elementor Template/8.png' },
+                { name: '9.png', url: 'Creastic – Creative Digital Agency Elementor Template/9.png' },
+                { name: '10.png', url: 'Creastic – Creative Digital Agency Elementor Template/10.png' },
+            ]
+        },
+        {
+            name: 'Execor – Accounting & Management Consulting',
+            images: [
+                { name: 'intro2.png', url: 'Execor – Accounting & Management Consulting/intro2.png' },
+                { name: '1.png', url: 'Execor – Accounting & Management Consulting/1.png' },
+                { name: '2.png', url: 'Execor – Accounting & Management Consulting/2.png' },
+                { name: '3.png', url: 'Execor – Accounting & Management Consulting/3.png' },
+                { name: '4.png', url: 'Execor – Accounting & Management Consulting/4.png' },
+                { name: '5.png', url: 'Execor – Accounting & Management Consulting/5.png' },
+                { name: '6.png', url: 'Execor – Accounting & Management Consulting/6.png' },
+                { name: '7.png', url: 'Execor – Accounting & Management Consulting/7.png' },
+                { name: '8.png', url: 'Execor – Accounting & Management Consulting/8.png' },
+                { name: '9.png', url: 'Execor – Accounting & Management Consulting/9.png' },
+                { name: '10.png', url: 'Execor – Accounting & Management Consulting/10.png' },
+            ]
+        },
+        {
+            name: 'Finovate',
+            images: [
+                { name: '1.png', url: 'Finovate/1.png' },
+                { name: '2.png', url: 'Finovate/2.png' },
+                { name: '3.png', url: 'Finovate/3.png' },
+                { name: '4.png', url: 'Finovate/4.png' },
+                { name: '5.png', url: 'Finovate/5.png' },
+                { name: '6.png', url: 'Finovate/6.png' },
+                { name: '7.png', url: 'Finovate/7.png' },
+                { name: '8.png', url: 'Finovate/8.png' },
+                { name: '9.png', url: 'Finovate/9.png' },
+                { name: '10.png', url: 'Finovate/10.png' },
+            ]
+        },
+        {
+            name: 'Homirx – Real Estate WordPress Theme',
+            images: [
+                { name: '1.png', url: 'Homirx – Real Estate WordPress Theme/1.png' },
+                { name: '2.png', url: 'Homirx – Real Estate WordPress Theme/2.png' },
+                { name: '3.png', url: 'Homirx – Real Estate WordPress Theme/3.png' },
+                { name: '4.png', url: 'Homirx – Real Estate WordPress Theme/4.png' },
+                { name: '5.png', url: 'Homirx – Real Estate WordPress Theme/5.png' },
+                { name: '6.png', url: 'Homirx – Real Estate WordPress Theme/6.png' },
+                { name: '7.png', url: 'Homirx – Real Estate WordPress Theme/7.png' },
+                { name: '8.png', url: 'Homirx – Real Estate WordPress Theme/8.png' },
+                { name: '9.png', url: 'Homirx – Real Estate WordPress Theme/9.png' },
+            ]
+        },
+        {
+            name: 'Innovecouture',
+            images: [
+                { name: '1.png', url: 'innovecouture/1.png' },
+                { name: '2.png', url: 'innovecouture/2.png' },
+                { name: '3.png', url: 'innovecouture/3.png' },
+                { name: '4.png', url: 'innovecouture/4.png' },
+                { name: '5.png', url: 'innovecouture/5.png' },
+                { name: '6.png', url: 'innovecouture/6.png' },
+                { name: '7.png', url: 'innovecouture/7.png' },
+                { name: '8.png', url: 'innovecouture/8.png' },
+                { name: '9.png', url: 'innovecouture/9.png' },
+            ]
+        },
+        {
+            name: 'Interior Design WordPress Theme',
+            images: [
+                { name: '1.png', url: 'Interior Design WordPress Theme/1.png' },
+                { name: '2.png', url: 'Interior Design WordPress Theme/2.png' },
+                { name: '3.png', url: 'Interior Design WordPress Theme/3.png' },
+                { name: '4.png', url: 'Interior Design WordPress Theme/4.png' },
+                { name: '5.png', url: 'Interior Design WordPress Theme/5.png' },
+                { name: '6.png', url: 'Interior Design WordPress Theme/6.png' },
+                { name: '7.png', url: 'Interior Design WordPress Theme/7.png' },
+                { name: '8.png', url: 'Interior Design WordPress Theme/8.png' },
+                { name: '9.png', url: 'Interior Design WordPress Theme/9.png' },
+                { name: '10.png', url: 'Interior Design WordPress Theme/10.png' },
+            ]
+        },
+        {
+            name: 'iTactics',
+            images: [
+                { name: '1.png', url: 'itactics/1.png' },
+                { name: '2.png', url: 'itactics/2.png' },
+                { name: '3.png', url: 'itactics/3.png' },
+                { name: '4.png', url: 'itactics/4.png' },
+                { name: '5.png', url: 'itactics/5.png' },
+                { name: '6.png', url: 'itactics/6.png' },
+                { name: '7.png', url: 'itactics/7.png' },
+                { name: '8.png', url: 'itactics/8.png' },
+                { name: '9.png', url: 'itactics/9.png' },
+                { name: '10.png', url: 'itactics/10.png' },
+            ]
+        },
+        {
+            name: 'MaxReach - SEO & Digital Agency (Style 1)',
+            images: [
+                { name: 'intro1.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/intro1.png' },
+                { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/2.png' },
+                { name: '3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/3.png' },
+                { name: '4.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/4.png' },
+                { name: '5.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/5.png' },
+                { name: '6.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/6.png' },
+                { name: '7.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/7.png' },
+                { name: '8.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/8.png' },
+                { name: '9.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/9.png' },
+                { name: '10.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/10.png' },
+            ]
+        },
+        {
+            name: 'MaxReach - SEO & Digital Agency (Style 2)',
+            images: [
+                { name: 'intro2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/intro2.png' },
+                { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/2.png' },
+                { name: '3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/3.png' },
+                { name: '4.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/4.png' },
+                { name: '5.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/5.png' },
+                { name: '6.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/6.png' },
+                { name: '7.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/7.png' },
+                { name: '8.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/8.png' },
+                { name: '9.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/9.png' },
+                { name: '10.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/10.png' },
+            ]
+        },
+        {
+            name: 'MaxReach - SEO & Digital Agency (Style 3)',
+            images: [
+                { name: 'intro3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/intro3.png' },
+                { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/2.png' },
+                { name: '3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/3.png' },
+                { name: '4.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/4.png' },
+                { name: '5.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/5.png' },
+                { name: '6.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/6.png' },
+                { name: '7.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/7.png' },
+                { name: '8.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/8.png' },
+                { name: '9.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/9.png' },
+                { name: '10.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/10.png' },
+            ]
+        },
+        {
+            name: 'Most – Creative Agency and Portfolio Theme',
+            images: [
+                { name: '1.png', url: 'Most – Creative Agency and Portfolio Theme/1.png' },
+                { name: '2.png', url: 'Most – Creative Agency and Portfolio Theme/2.png' },
+                { name: '3.png', url: 'Most – Creative Agency and Portfolio Theme/3.png' },
+                { name: '4.png', url: 'Most – Creative Agency and Portfolio Theme/4.png' },
+                { name: '5.png', url: 'Most – Creative Agency and Portfolio Theme/5.png' },
+                { name: '6.png', url: 'Most – Creative Agency and Portfolio Theme/6.png' },
+                { name: '7.png', url: 'Most – Creative Agency and Portfolio Theme/7.png' },
+                { name: '8.png', url: 'Most – Creative Agency and Portfolio Theme/8.png' },
+                { name: '9.png', url: 'Most – Creative Agency and Portfolio Theme/9.png' },
+                { name: '10.png', url: 'Most – Creative Agency and Portfolio Theme/10.png' },
+            ]
+        },
+        {
+            name: 'Mouno - Creative Digital Agency (Style 1)',
+            images: [
+                { name: 'intro1.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/intro1.png' },
+                { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/2.png' },
+                { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/3.png' },
+                { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/4.png' },
+                { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/5.png' },
+                { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/6.png' },
+                { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/7.png' },
+                { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/8.png' },
+                { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/9.png' },
+                { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/10.png' },
+                { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s1/11.png' },
+            ]
+        },
+        {
+            name: 'Mouno - Creative Digital Agency (Style 2)',
+            images: [
+                { name: 'intro2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/intro2.png' },
+                { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/2.png' },
+                { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/3.png' },
+                { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/4.png' },
+                { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/5.png' },
+                { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/6.png' },
+                { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/7.png' },
+                { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/8.png' },
+                { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/9.png' },
+                { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/10.png' },
+                { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s2/11.png' },
+            ]
+        },
+        {
+            name: 'Mouno - Creative Digital Agency (Style 3)',
+            images: [
+                { name: 'intro3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/intro3.png' },
+                { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/2.png' },
+                { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/3.png' },
+                { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/4.png' },
+                { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/5.png' },
+                { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/6.png' },
+                { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/7.png' },
+                { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/8.png' },
+                { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/9.png' },
+                { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/10.png' },
+                { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s3/11.png' },
+            ]
+        },
+        {
+            name: 'Mouno - Creative Digital Agency (Style 4)',
+            images: [
+                { name: 'intro4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/intro4.png' },
+                { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/2.png' },
+                { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/3.png' },
+                { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/4.png' },
+                { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/5.png' },
+                { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/6.png' },
+                { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/7.png' },
+                { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/8.png' },
+                { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/9.png' },
+                { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/10.png' },
+                { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s4/11.png' },
+            ]
+        },
+        {
+            name: 'Mouno - Creative Digital Agency (Style 5)',
+            images: [
+                { name: 'intro5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/intro5.png' },
+                { name: '2.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/2.png' },
+                { name: '3.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/3.png' },
+                { name: '4.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/4.png' },
+                { name: '5.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/5.png' },
+                { name: '6.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/6.png' },
+                { name: '7.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/7.png' },
+                { name: '8.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/8.png' },
+                { name: '9.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/9.png' },
+                { name: '10.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/10.png' },
+                { name: '11.png', url: 'Mouno - Creative Digital Agency WordPress Theme/s5/11.png' },
+            ]
+        },
+        {
+            name: 'Ingenioso (Style 1)',
+            images: [
+                { name: 'intro1.png', url: 'mulitple_ingesiso/s1/intro1.png' },
+                { name: '2.png', url: 'mulitple_ingesiso/s1/2.png' },
+                { name: '3.png', url: 'mulitple_ingesiso/s1/3.png' },
+                { name: '4.png', url: 'mulitple_ingesiso/s1/4.png' },
+                { name: '5.png', url: 'mulitple_ingesiso/s1/5.png' },
+                { name: '6.png', url: 'mulitple_ingesiso/s1/6.png' },
+                { name: '7.png', url: 'mulitple_ingesiso/s1/7.png' },
+                { name: '8.png', url: 'mulitple_ingesiso/s1/8.png' },
+                { name: '9.png', url: 'mulitple_ingesiso/s1/9.png' },
+                { name: '10.png', url: 'mulitple_ingesiso/s1/10.png' },
+            ]
+        },
+        {
+            name: 'Ingenioso (Style 2)',
+            images: [
+                { name: 'intro2.png', url: 'mulitple_ingesiso/s2/intro2.png' },
+                { name: '2.png', url: 'mulitple_ingesiso/s2/2.png' },
+                { name: '3.png', url: 'mulitple_ingesiso/s2/3.png' },
+                { name: '4.png', url: 'mulitple_ingesiso/s2/4.png' },
+                { name: '5.png', url: 'mulitple_ingesiso/s2/5.png' },
+                { name: '6.png', url: 'mulitple_ingesiso/s2/6.png' },
+                { name: '7.png', url: 'mulitple_ingesiso/s2/7.png' },
+                { name: '8.png', url: 'mulitple_ingesiso/s2/8.png' },
+                { name: '9.png', url: 'mulitple_ingesiso/s2/9.png' },
+                { name: '10.png', url: 'mulitple_ingesiso/s2/10.png' },
+            ]
+        },
+        {
+            name: 'Ingenioso (Style 3)',
+            images: [
+                { name: 'intro3.png', url: 'mulitple_ingesiso/s3/intro3.png' },
+                { name: '2.png', url: 'mulitple_ingesiso/s3/2.png' },
+                { name: '3.png', url: 'mulitple_ingesiso/s3/3.png' },
+                { name: '4.png', url: 'mulitple_ingesiso/s3/4.png' },
+                { name: '5.png', url: 'mulitple_ingesiso/s3/5.png' },
+                { name: '6.png', url: 'mulitple_ingesiso/s3/6.png' },
+                { name: '7.png', url: 'mulitple_ingesiso/s3/7.png' },
+                { name: '8.png', url: 'mulitple_ingesiso/s3/8.png' },
+                { name: '9.png', url: 'mulitple_ingesiso/s3/9.png' },
+                { name: '10.png', url: 'mulitple_ingesiso/s3/10.png' },
+            ]
+        },
+        {
+            name: 'Ingenioso (Style 4)',
+            images: [
+                { name: 'intro4.png', url: 'mulitple_ingesiso/s4/intro4.png' },
+                { name: '2.png', url: 'mulitple_ingesiso/s4/2.png' },
+                { name: '3.png', url: 'mulitple_ingesiso/s4/3.png' },
+                { name: '4.png', url: 'mulitple_ingesiso/s4/4.png' },
+                { name: '5.png', url: 'mulitple_ingesiso/s4/5.png' },
+                { name: '6.png', url: 'mulitple_ingesiso/s4/6.png' },
+                { name: '7.png', url: 'mulitple_ingesiso/s4/7.png' },
+                { name: '8.png', url: 'mulitple_ingesiso/s4/8.png' },
+                { name: '9.png', url: 'mulitple_ingesiso/s4/9.png' },
+                { name: '10.png', url: 'mulitple_ingesiso/s4/10.png' },
+            ]
+        },
+        {
+            name: 'Ingenioso (Style 5)',
+            images: [
+                { name: 'intro5.png', url: 'mulitple_ingesiso/s5/intro5.png' },
+                { name: '2.png', url: 'mulitple_ingesiso/s5/2.png' },
+                { name: '3.png', url: 'mulitple_ingesiso/s5/3.png' },
+                { name: '4.png', url: 'mulitple_ingesiso/s5/4.png' },
+                { name: '5.png', url: 'mulitple_ingesiso/s5/5.png' },
+                { name: '6.png', url: 'mulitple_ingesiso/s5/6.png' },
+                { name: '7.png', url: 'mulitple_ingesiso/s5/7.png' },
+                { name: '8.png', url: 'mulitple_ingesiso/s5/8.png' },
+                { name: '9.png', url: 'mulitple_ingesiso/s5/9.png' },
+                { name: '10.png', url: 'mulitple_ingesiso/s5/10.png' },
+            ]
+        },
+        {
+            name: 'Newspaper',
+            images: [
+                { name: '1.png', url: 'Newspaper/1.png' },
+                { name: '2.png', url: 'Newspaper/2.png' },
+                { name: '3.png', url: 'Newspaper/3.png' },
+                { name: '4.png', url: 'Newspaper/4.png' },
+                { name: '5.png', url: 'Newspaper/5.png' },
+                { name: '6.png', url: 'Newspaper/6.png' },
+                { name: '7.png', url: 'Newspaper/7.png' },
+                { name: '8.png', url: 'Newspaper/8.png' },
+                { name: '9.png', url: 'Newspaper/9.png' },
+                { name: '10.png', url: 'Newspaper/10.png' },
+            ]
+        },
+        {
+            name: 'Numerique',
+            images: [
+                { name: '1.png', url: 'numerique/1.png' },
+                { name: '2.png', url: 'numerique/2.png' },
+                { name: '3.png', url: 'numerique/3.png' },
+                { name: '4.png', url: 'numerique/4.png' },
+                { name: '5.png', url: 'numerique/5.png' },
+                { name: '6.png', url: 'numerique/6.png' },
+                { name: '7.png', url: 'numerique/7.png' },
+                { name: '8.png', url: 'numerique/8.png' },
+                { name: '9.png', url: 'numerique/9.png' },
+                { name: '10.png', url: 'numerique/10.png' },
+            ]
+        },
+        {
+            name: 'Pixelpiernyc - Creative Agency Portfolio Freelance',
+            images: [
+                { name: '1.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/1.png' },
+                { name: '2.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/2.png' },
+                { name: '3.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/3.png' },
+                { name: '4.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/4.png' },
+                { name: '5.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/5.png' },
+                { name: '6.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/6.png' },
+                { name: '7.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/7.png' },
+                { name: '8.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/8.png' },
+                { name: '9.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/9.png' },
+            ]
+        },
+        {
+            name: 'Rentic',
+            images: [
+                { name: '1.png', url: 'Rentic/1.png' },
+                { name: '2.png', url: 'Rentic/2.png' },
+                { name: '3.png', url: 'Rentic/3.png' },
+                { name: '4.png', url: 'Rentic/4.png' },
+                { name: '5.png', url: 'Rentic/5.png' },
+                { name: '6.png', url: 'Rentic/6.png' },
+                { name: '7.png', url: 'Rentic/7.png' },
+                { name: '8.png', url: 'Rentic/8.png' },
+                { name: '9.png', url: 'Rentic/9.png' },
+                { name: '10.png', url: 'Rentic/10.png' },
+                { name: '11.png', url: 'Rentic/11.png' },
+            ]
+        },
+        {
+            name: 'Tecnologia (Style 1)',
+            images: [
+                { name: 'App-Development.png', url: 'Tecnologia/s1/App-Development---Tecnologia-12-01-2025_05_21_PM.png' },
+                { name: '1.png', url: 'Tecnologia/s1/1.png' },
+                { name: '2.png', url: 'Tecnologia/s1/2.png' },
+                { name: '3.png', url: 'Tecnologia/s1/3.png' },
+                { name: '4.png', url: 'Tecnologia/s1/4.png' },
+                { name: '5.png', url: 'Tecnologia/s1/5.png' },
+                { name: '6.png', url: 'Tecnologia/s1/6.png' },
+                { name: '7.png', url: 'Tecnologia/s1/7.png' },
+                { name: '8.png', url: 'Tecnologia/s1/8.png' },
+                { name: '9.png', url: 'Tecnologia/s1/9.png' },
+            ]
+        },
+        {
+            name: 'Tecnologia (Style 2)',
+            images: [
+                { name: 'App-Development.png', url: 'Tecnologia/s2/App-Development---Tecnologia-12-01-2025_05_21_PM.png' },
+                { name: '2.png', url: 'Tecnologia/s2/2.png' },
+                { name: '3.png', url: 'Tecnologia/s2/3.png' },
+                { name: '4.png', url: 'Tecnologia/s2/4.png' },
+                { name: '5.png', url: 'Tecnologia/s2/5.png' },
+                { name: '6.png', url: 'Tecnologia/s2/6.png' },
+                { name: '7.png', url: 'Tecnologia/s2/7.png' },
+                { name: '8.png', url: 'Tecnologia/s2/8.png' },
+                { name: '9.png', url: 'Tecnologia/s2/9.png' },
+            ]
+        },
     ]
 };
 
