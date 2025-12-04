@@ -619,7 +619,7 @@ function createImageCard(image, index) {
     const fullUrl = image.url.startsWith('http') ? image.url : CONFIG.baseUrl + image.url;
 
     card.innerHTML = `
-        <img data-src="${image.url}" alt="${image.name}" class="w-full h-full object-cover object-top" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22%23bdcbcc%22><path d=%22M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z%22/></svg>'">
+        <img data-src="${image.url}" alt="${image.name}" class="w-full h-full object-cover object-left-top" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22%23bdcbcc%22><path d=%22M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z%22/></svg>'">
         <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-3 pt-8">
             <span class="text-white text-xs truncate block" title="${image.name}">${image.name}</span>
         </div>
