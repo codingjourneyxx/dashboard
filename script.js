@@ -27,13 +27,13 @@ const CONFIG = {
             name: 'Business Consulting Wordpress Theme',
             zip: { name: 'nexta-business-consulting.zip', url: 'Business Consulting Wordpress Theme/nexta-business-consulting-wordpress-theme-2025-11-23-12-40-35-utc.zip' },
             images: [
-                { name: '1.png', url: 'Business Consulting Wordpress Theme/1.png' },
-                { name: '2.png', url: 'Business Consulting Wordpress Theme/2.png' },
-                { name: '3.png', url: 'Business Consulting Wordpress Theme/3.png' },
-                { name: '4.png', url: 'Business Consulting Wordpress Theme/4.png' },
-                { name: '5.png', url: 'Business Consulting Wordpress Theme/5.png' },
-                { name: '6.png', url: 'Business Consulting Wordpress Theme/6.png' },
-                { name: '7.png', url: 'Business Consulting Wordpress Theme/7.png' },
+                { name: '1.jpg', url: 'Business Consulting Wordpress Theme/1.jpg' },
+                { name: '2.jpg', url: 'Business Consulting Wordpress Theme/2.jpg' },
+                { name: '3.jpg', url: 'Business Consulting Wordpress Theme/3.jpg' },
+                { name: '4.jpg', url: 'Business Consulting Wordpress Theme/4.jpg' },
+                { name: '5.jpg', url: 'Business Consulting Wordpress Theme/5.jpg' },
+                { name: '6.jpg', url: 'Business Consulting Wordpress Theme/6.jpg' },
+                { name: '7.jpg', url: 'Business Consulting Wordpress Theme/7.jpg' },
             ]
         },
         {
