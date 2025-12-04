@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Folder Viewer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'accent': '#5167FC',
+                        'accent-dark': '#3d4fd9',
+                    },
+                    fontFamily: {
+                        'inter': ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-white min-h-screen font-inter">
+    <!-- Header -->
+    <header class="bg-accent shadow-lg">
+        <div class="max-w-7xl mx-auto px-6 py-4">
+            <h1 class="text-2xl font-light text-white tracking-wide">Dashboard</h1>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-6 py-8">
+        <!-- Folder Info Section -->
+        <div class="mb-8">
+            <div class="flex items-center gap-3 mb-2">
+                <div class="folder-icon-container">
+                    <svg class="w-6 h-6 text-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>
+                    </svg>
+                </div>
+                <h2 id="folderName" class="text-xl font-medium text-gray-800">Loading...</h2>
+            </div>
+            <p id="imageCount" class="text-sm text-accent ml-9">0 items</p>
+        </div>
+
+        <!-- Image Grid -->
+        <div id="imageGrid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
+            <!-- Images will be dynamically inserted here -->
+        </div>
+
+        <!-- Empty State -->
+        <div id="emptyState" class="hidden text-center py-20">
+            <svg class="w-16 h-16 mx-auto text-accent opacity-50 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+            </svg>
+            <p class="text-gray-500 font-light">No images found in this folder</p>
+        </div>
+    </main>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="fixed bottom-6 right-6 bg-accent text-white px-6 py-3 rounded shadow-lg transform translate-y-20 opacity-0 transition-all duration-300">
+        <span class="text-sm font-light">URL copied to clipboard</span>
+    </div>
+
+    <!-- Image Modal -->
+    <div id="imageModal" class="fixed inset-0 bg-gray-900/95 flex items-center justify-center z-50" style="display: none;">
+        <button id="closeModal" class="absolute top-6 right-6 text-white hover:text-accent transition-colors z-10">
+            <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 18L18 6M6 6l12 12"/>
+            </svg>
+        </button>
+        <img id="modalImage" class="max-w-[90vw] max-h-[90vh] object-contain" src="" alt="">
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
