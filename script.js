@@ -11,6 +11,7 @@ const CONFIG = {
         {
             name: 'Axistudio - Branding & Creative Studio Elementor Template Kit',
             images: [
+                { name: '1.png', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/1.png' },
                 { name: '2.png', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/2.png' },
                 { name: '3.png', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/3.png' },
                 { name: '4.png', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/4.png' },
