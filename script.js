@@ -25,6 +25,7 @@ const CONFIG = {
         },
         {
             name: 'Business Consulting Wordpress Theme',
+            zip: { name: 'nexta-business-consulting.zip', url: 'Business Consulting Wordpress Theme/nexta-business-consulting-wordpress-theme-2025-11-23-12-40-35-utc.zip' },
             images: [
                 { name: '1.png', url: 'Business Consulting Wordpress Theme/1.png' },
                 { name: '2.png', url: 'Business Consulting Wordpress Theme/2.png' },
