@@ -769,13 +769,17 @@ function createImageListItem(image, index) {
     const item = document.createElement('div');
     item.className = 'flex items-center gap-3 p-3 bg-gray-50 rounded-lg border border-gray-200 hover:bg-gray-100';
 
-    // Full URL for copying
-    const fullUrl = image.url.startsWith('http') ? image.url : CONFIG.baseUrl + image.url;
+    // Full URL for copying (encode properly for valid URL)
+    const rawUrl = image.url.startsWith('http') ? image.url : CONFIG.baseUrl + image.url;
+    // Clean URL for display (decode %20 to spaces for readability)
+    const displayUrl = decodeURIComponent(rawUrl);
+    // Properly encoded URL for copying (works in all browsers)
+    const copyUrl = encodeURI(decodeURIComponent(rawUrl));
 
     item.innerHTML = `
         <div class="flex-1 min-w-0 cursor-pointer" title="Click to view image">
             <p class="text-sm font-medium text-gray-700 truncate">${image.name}</p>
-            <p class="text-xs text-gray-500 truncate">${fullUrl}</p>
+            <p class="text-xs text-gray-500 truncate">${displayUrl}</p>
         </div>
         <button class="copy-btn flex-shrink-0 px-3 py-1.5 bg-accent text-white text-xs rounded hover:bg-accent-dark">
             Copy URL
@@ -792,7 +796,7 @@ function createImageListItem(image, index) {
     const copyBtn = item.querySelector('.copy-btn');
     copyBtn.addEventListener('click', (e) => {
         e.stopPropagation();
-        copyToClipboard(fullUrl);
+        copyToClipboard(copyUrl);
         copyBtn.textContent = 'Copied!';
         setTimeout(() => copyBtn.textContent = 'Copy URL', 1000);
     });
@@ -809,7 +813,9 @@ function createZipListItem(zip) {
     const item = document.createElement('div');
     item.className = 'flex items-center gap-3 p-3 bg-accent/10 rounded-lg border-2 border-accent border-dashed';
 
-    const fullUrl = zip.url.startsWith('http') ? zip.url : CONFIG.baseUrl + zip.url;
+    const rawUrl = zip.url.startsWith('http') ? zip.url : CONFIG.baseUrl + zip.url;
+    const displayUrl = decodeURIComponent(rawUrl);
+    const copyUrl = encodeURI(decodeURIComponent(rawUrl));
 
     item.innerHTML = `
         <svg class="w-6 h-6 text-accent flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -817,7 +823,7 @@ function createZipListItem(zip) {
         </svg>
         <div class="flex-1 min-w-0">
             <p class="text-sm font-medium text-accent">${zip.name}</p>
-            <p class="text-xs text-gray-500 truncate">${fullUrl}</p>
+            <p class="text-xs text-gray-500 truncate">${displayUrl}</p>
         </div>
         <button class="copy-btn flex-shrink-0 px-3 py-1.5 bg-accent text-white text-xs rounded hover:bg-accent-dark">
             Copy URL
@@ -827,7 +833,7 @@ function createZipListItem(zip) {
     // Copy button
     const copyBtn = item.querySelector('.copy-btn');
     copyBtn.addEventListener('click', () => {
-        copyToClipboard(fullUrl);
+        copyToClipboard(copyUrl);
         copyBtn.textContent = 'Copied!';
         setTimeout(() => copyBtn.textContent = 'Copy URL', 1000);
     });
