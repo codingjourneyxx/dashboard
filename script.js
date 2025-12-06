@@ -54,7 +54,7 @@ const CONFIG = {
         },
         {
             name: 'Creastic – Creative Digital Agency Elementor Template',
-            zip: { name: 'creastic.zip', url: 'Creastic – Creative Digital Agency Elementor Template/creastic-creative-digital-agency-elementor-templ-2025-07-31-01-33-00-utc.zip' },
+            zip: { name: 'Creative_Digital_Agency_Template.zip', url: 'Creastic – Creative Digital Agency Elementor Template/Creative_Digital_Agency_Template.zip' },
             images: [
                 { name: '1.png', url: 'Creastic – Creative Digital Agency Elementor Template/1.png' },
                 { name: '2.png', url: 'Creastic – Creative Digital Agency Elementor Template/2.png' },
