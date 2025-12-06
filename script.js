@@ -10,6 +10,7 @@ const CONFIG = {
     folders: [
         {
             name: 'Axistudio - Branding & Creative Studio Elementor Template Kit',
+            zip: { name: 'Branding Creative Studio.zip', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/Branding Creative Studio.zip' },
             images: [
                 { name: '1.png', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/1.png' },
                 { name: '2.png', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/2.png' },
