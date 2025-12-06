@@ -87,7 +87,7 @@ const CONFIG = {
         },
         {
             name: 'Homirx – Real Estate WordPress Theme',
-            zip: { name: 'homirx_theme.zip', url: 'Homirx – Real Estate WordPress Theme/homirx_theme.zip' },
+            zip: { name: 'Real_Estate_WordPress_Theme.zip', url: 'Homirx – Real Estate WordPress Theme/Real_Estate_WordPress_Theme.zip' },
             images: [
                 { name: '1.png', url: 'Homirx – Real Estate WordPress Theme/1.png' },
                 { name: '2.png', url: 'Homirx – Real Estate WordPress Theme/2.png' },
