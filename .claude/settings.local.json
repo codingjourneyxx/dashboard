@@ -3,7 +3,9 @@
     "allow": [
       "Bash(ls:*)",
       "Bash(find:*)",
-      "WebFetch(domain:dashboardcrm1.vercel.app)"
+      "WebFetch(domain:dashboardcrm1.vercel.app)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nUpdate zip file names to match actual files\n\n- Homirx: homirx_theme.zip → Real_Estate_WordPress_Theme.zip\n- Innovecouture: innovecouture.zip → Fashion_Clothing_Ecommerce_Shop.zip\n- Numerique: numerique.zip → SEO_Digital_Marketing_WP_Theme.zip\n- Pixelpiernyc: pixelpiernyc.zip → Portfolio_Creative_Agency_Freelancer_WordPress_Theme.zip\n- Tecnologia s1/s2: tecnologia_28.zip → IT_SAAS_Software_Tech_WP_Theme.zip\n- Fixed Tecnologia image references (removed non-existent App-Development.png)\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n)\")"
     ],
     "deny": [],
     "ask": []
