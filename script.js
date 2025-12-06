@@ -54,7 +54,7 @@ const CONFIG = {
         },
         {
             name: 'Execor – Accounting & Management Consulting',
-            zip: { name: 'fake.zip', url: 'Execor – Accounting & Management Consulting/fake.zip' },
+            zip: { name: 'Accounting & Management Consulting Theme.zip', url: 'Execor – Accounting & Management Consulting/Accounting & Management Consulting Theme.zip' },
             images: [
                 { name: 'intro2.png', url: 'Execor – Accounting & Management Consulting/intro2.png' },
                 { name: '1.png', url: 'Execor – Accounting & Management Consulting/1.png' },
@@ -416,7 +416,7 @@ const CONFIG = {
         },
         {
             name: 'Pixelpiernyc - Creative Agency Portfolio Freelance',
-            zip: { name: 'pixelpiernyc.zip', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/pixelpiernyc.zip' },
+            zip: { name: 'Portfolio Creative Agency Freelancer WordPress Theme.zip', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/Portfolio Creative Agency Freelancer WordPress Theme.zip' },
             images: [
                 { name: '1.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/1.png' },
                 { name: '2.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/2.png' },
