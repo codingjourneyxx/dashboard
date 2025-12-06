@@ -41,7 +41,7 @@ const CONFIG = {
         },
         {
             name: 'Business Consulting Wordpress Theme',
-            zip: { name: 'nexta-business-consulting.zip', url: 'Business Consulting Wordpress Theme/nexta-business-consulting-wordpress-theme-2025-11-23-12-40-35-utc.zip' },
+            zip: { name: 'Business_Consulting_Wordpress_Theme.zip', url: 'Business Consulting Wordpress Theme/Business_Consulting_Wordpress_Theme.zip' },
             images: [
                 { name: '1.jpg', url: 'Business Consulting Wordpress Theme/1.jpg' },
                 { name: '2.jpg', url: 'Business Consulting Wordpress Theme/2.jpg' },
@@ -232,7 +232,7 @@ const CONFIG = {
         },
         {
             name: 'Mouno - Creative Digital Agency',
-            zip: { name: 'mouno.zip', url: 'Mouno - Creative Digital Agency WordPress Theme/mouno.zip' },
+            zip: { name: 'Creative_Digital_Agency_WordPress_Theme.zip', url: 'Mouno - Creative Digital Agency WordPress Theme/Creative_Digital_Agency_WordPress_Theme.zip' },
             subfolders: [
                 {
                     name: 'Style 1',
@@ -446,7 +446,7 @@ const CONFIG = {
         },
         {
             name: 'Rentic',
-            zip: { name: 'rentic.zip', url: 'Rentic/rentic.zip' },
+            zip: { name: 'Car_Rental_&_Dealership_WordPress_Theme.zip', url: 'Rentic/Car_Rental_&_Dealership_WordPress_Theme.zip' },
             images: [
                 { name: '1.png', url: 'Rentic/1.png' },
                 { name: '2.png', url: 'Rentic/2.png' },
