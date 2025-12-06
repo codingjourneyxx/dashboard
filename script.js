@@ -165,10 +165,10 @@ const CONFIG = {
         },
         {
             name: 'MaxReach - SEO & Digital Agency',
+            zip: { name: 'SEO_&_Digital_Agency_WordPress_Theme.zip', url: 'MaxReach - SEO & Digital Agency WordPress Theme/SEO_&_Digital_Agency_WordPress_Theme.zip' },
             subfolders: [
                 {
                     name: 'Style 1',
-                    zip: { name: 'maxreach.zip', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/maxreach.zip' },
                     images: [
                         { name: 'intro1.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/intro1.png' },
                         { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s1/2.png' },
@@ -184,7 +184,6 @@ const CONFIG = {
                 },
                 {
                     name: 'Style 2',
-                    zip: { name: 'maxreach.zip', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/maxreach.zip' },
                     images: [
                         { name: 'intro2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/intro2.png' },
                         { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s2/2.png' },
@@ -200,7 +199,6 @@ const CONFIG = {
                 },
                 {
                     name: 'Style 3',
-                    zip: { name: 'maxreach.zip', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/maxreach.zip' },
                     images: [
                         { name: 'intro3.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/intro3.png' },
                         { name: '2.png', url: 'MaxReach - SEO & Digital Agency WordPress Theme/s3/2.png' },
