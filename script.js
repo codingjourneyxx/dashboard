@@ -71,7 +71,7 @@ const CONFIG = {
         },
         {
             name: 'Finovate',
-            zip: { name: 'finovate.zip', url: 'Finovate/finovate.zip' },
+            zip: { name: 'Advisors_&_Business_Consulting.zip', url: 'Finovate/Advisors_&_Business_Consulting.zip' },
             images: [
                 { name: '1.png', url: 'Finovate/1.png' },
                 { name: '2.png', url: 'Finovate/2.png' },
