@@ -416,7 +416,7 @@ const CONFIG = {
         },
         {
             name: 'Pixelpiernyc - Creative Agency Portfolio Freelance',
-            zip: { name: 'Portfolio Creative Agency Freelancer WordPress Theme.zip', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/Portfolio Creative Agency Freelancer WordPress Theme.zip' },
+            zip: { name: 'Portfolio_Creative_Agency_Freelancer_WordPress_Theme.zip', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/Portfolio_Creative_Agency_Freelancer_WordPress_Theme.zip' },
             images: [
                 { name: '1.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/1.png' },
                 { name: '2.png', url: 'Pixelpiernyc - Creative Agency Portfolio Freelance/2.png' },
