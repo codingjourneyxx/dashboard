@@ -451,9 +451,8 @@ const CONFIG = {
             subfolders: [
                 {
                     name: 'Style 1',
-                    zip: { name: 'tecnologia_28.zip', url: 'Tecnologia/s1/tecnologia_28.zip' },
+                    zip: { name: 'IT_SAAS_Software_Tech_WP_Theme.zip', url: 'Tecnologia/s1/IT_SAAS_Software_Tech_WP_Theme.zip' },
                     images: [
-                        { name: 'App-Development.png', url: 'Tecnologia/s1/App-Development---Tecnologia-12-01-2025_05_21_PM.png' },
                         { name: '1.png', url: 'Tecnologia/s1/1.png' },
                         { name: '2.png', url: 'Tecnologia/s1/2.png' },
                         { name: '3.png', url: 'Tecnologia/s1/3.png' },
@@ -467,9 +466,9 @@ const CONFIG = {
                 },
                 {
                     name: 'Style 2',
-                    zip: { name: 'tecnologia_28.zip', url: 'Tecnologia/s2/tecnologia_28.zip' },
+                    zip: { name: 'IT_SAAS_Software_Tech_WP_Theme.zip', url: 'Tecnologia/s2/IT_SAAS_Software_Tech_WP_Theme.zip' },
                     images: [
-                        { name: 'App-Development.png', url: 'Tecnologia/s2/App-Development---Tecnologia-12-01-2025_05_21_PM.png' },
+                        { name: '1.png', url: 'Tecnologia/s2/1.png' },
                         { name: '2.png', url: 'Tecnologia/s2/2.png' },
                         { name: '3.png', url: 'Tecnologia/s2/3.png' },
                         { name: '4.png', url: 'Tecnologia/s2/4.png' },
