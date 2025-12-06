@@ -202,7 +202,7 @@ const CONFIG = {
         },
         {
             name: 'Most – Creative Agency and Portfolio Theme',
-            zip: { name: 'most.zip', url: 'Most – Creative Agency and Portfolio Theme/most.zip' },
+            zip: { name: 'Creative_Agency_and_Portfolio_Theme.zip', url: 'Most – Creative Agency and Portfolio Theme/Creative_Agency_and_Portfolio_Theme.zip' },
             images: [
                 { name: '1.png', url: 'Most – Creative Agency and Portfolio Theme/1.png' },
                 { name: '2.png', url: 'Most – Creative Agency and Portfolio Theme/2.png' },
