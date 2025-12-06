@@ -320,6 +320,7 @@ const CONFIG = {
         },
         {
             name: 'Ingenioso',
+            zip: { name: 'ingenioso creative wordpress themes.zip', url: 'mulitple_ingesiso/ingenioso creative wordpress themes.zip' },
             subfolders: [
                 {
                     name: 'Style 1',
