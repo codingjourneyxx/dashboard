@@ -400,7 +400,7 @@ const CONFIG = {
         },
         {
             name: 'Numerique',
-            zip: { name: 'numerique.zip', url: 'numerique/numerique.zip' },
+            zip: { name: 'SEO_Digital_Marketing_WP_Theme.zip', url: 'numerique/SEO_Digital_Marketing_WP_Theme.zip' },
             images: [
                 { name: '1.png', url: 'numerique/1.png' },
                 { name: '2.png', url: 'numerique/2.png' },
