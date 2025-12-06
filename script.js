@@ -133,7 +133,7 @@ const CONFIG = {
         },
         {
             name: 'Interior Design WordPress Theme',
-            zip: { name: 'minterio.zip', url: 'Interior Design WordPress Theme/minterio.zip' },
+            zip: { name: 'Interior Design WordPress Theme.zip', url: 'Interior Design WordPress Theme/Interior Design WordPress Theme.zip' },
             images: [
                 { name: '1.png', url: 'Interior Design WordPress Theme/1.png' },
                 { name: '2.png', url: 'Interior Design WordPress Theme/2.png' },
@@ -149,7 +149,7 @@ const CONFIG = {
         },
         {
             name: 'iTactics',
-            zip: { name: 'itactics.zip', url: 'itactics/itactics.zip' },
+            zip: { name: 'IT_Solutions_&_Digital_Startup_WordPress_Theme.zip', url: 'itactics/IT_Solutions_&_Digital_Startup_WordPress_Theme.zip' },
             images: [
                 { name: '1.png', url: 'itactics/1.png' },
                 { name: '2.png', url: 'itactics/2.png' },
