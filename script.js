@@ -102,7 +102,7 @@ const CONFIG = {
         },
         {
             name: 'Innovecouture',
-            zip: { name: 'innovecouture.zip', url: 'innovecouture/innovecouture.zip' },
+            zip: { name: 'Fashion_Clothing_Ecommerce_Shop.zip', url: 'innovecouture/Fashion_Clothing_Ecommerce_Shop.zip' },
             images: [
                 { name: '1.png', url: 'innovecouture/1.png' },
                 { name: '2.png', url: 'innovecouture/2.png' },
