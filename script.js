@@ -9,6 +9,21 @@ const CONFIG = {
     baseUrl: window.location.origin + window.location.pathname.replace('index.html', ''),
     folders: [
         {
+            name: 'Creative Portfolio & Digital Agency WordPress Elementor Theme',
+            images: [
+                { name: '1.png', url: 'Creative Portfolio & Digital Agency WordPress Elementor Theme/1.png' },
+                { name: '2.png', url: 'Creative Portfolio & Digital Agency WordPress Elementor Theme/2.png' },
+                { name: '3.png', url: 'Creative Portfolio & Digital Agency WordPress Elementor Theme/3.png' },
+                { name: '4.png', url: 'Creative Portfolio & Digital Agency WordPress Elementor Theme/4.png' },
+                { name: '5.png', url: 'Creative Portfolio & Digital Agency WordPress Elementor Theme/5.png' },
+                { name: '6.png', url: 'Creative Portfolio & Digital Agency WordPress Elementor Theme/6.png' },
+                { name: '7.png', url: 'Creative Portfolio & Digital Agency WordPress Elementor Theme/7.png' },
+                { name: '8.png', url: 'Creative Portfolio & Digital Agency WordPress Elementor Theme/8.png' },
+                { name: '9.png', url: 'Creative Portfolio & Digital Agency WordPress Elementor Theme/9.png' },
+                { name: '10.png', url: 'Creative Portfolio & Digital Agency WordPress Elementor Theme/10.png' },
+            ]
+        },
+        {
             name: 'Axistudio - Branding & Creative Studio Elementor Template Kit',
             zip: { name: 'Branding_Creative_Studio.zip', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/Branding_Creative_Studio.zip' },
             images: [
