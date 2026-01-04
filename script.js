@@ -26,7 +26,6 @@ const CONFIG = {
         {
             name: 'Axistudio - Branding & Creative Studio Elementor Template Kit',
             zip: { name: 'Branding_Creative_Studio.zip', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/Branding_Creative_Studio.zip' },
-            zip: { name: 'webfolio.zip', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/webfolio.zip' },
             
             images: [
                 { name: '1.png', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/1.png' },
@@ -39,6 +38,8 @@ const CONFIG = {
                 { name: '8.png', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/8.png' },
                 { name: '9.png', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/9.png' },
                 { name: '10.png', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/10.png' },
+                { name: 'webfolio.zip', url: 'Axistudio - Branding & Creative Studio Elementor Template Kit/webfolio.zip' },
+
             ]
         },
         {
